@@ -18,7 +18,7 @@ A Flask-based web app that allows users to upload PDF documents and ask question
 
 ### 1. Clone the repository or copy the project files
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shalini-262005/Genie-ai-chat-app.git
 cd <your-project-directory>
 ```
 
@@ -26,7 +26,7 @@ cd <your-project-directory>
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ### 3. Install required dependencies
