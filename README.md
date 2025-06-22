@@ -1,4 +1,4 @@
-# 🧠 Gemini PDF Q&A Chatbot
+# 🧠 Genie AI Chat app
 
 A Flask-based web app that allows users to upload PDF documents and ask questions, powered by Google Gemini (Generative AI) and LangChain.
 
